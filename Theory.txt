@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+printf("Namaste All, Wel-come to Bharat\n");
+printf("Hello World\n");
+}
+
+int MAIN()
+{
+printf("Hi, I am a new C developer");
+}
+
+What is an extenstion? 
+.txt
+.C
+------
+Comments are notes written in a C program that the computer ignores — they are meant only for humans to read and understand the code better.
+They help explain what the code does or why it was written in a certain way.
+------

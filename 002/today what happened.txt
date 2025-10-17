@@ -1,0 +1,20 @@
+Today we started our discussion with Byte 
+KB -> MB -> GB -> TB -> PB 
+Show Data Centers Image which have huge capacity of memory
+Also show the Images of Character using ASCII characters
+talked about hex, Decimal and char 
+
+Defined a character:
+
+Computers need a way to represent characters as numbers. ASCII provides this standardization by assigning a specific numeric code to every character.  
+
+Standard ASCII: uses 7 bits to represent 128 characters, which include uppercase and lowercase letters, numbers (\(0-9\)), punctuation, and control characters.  
+
+Extended ASCII: uses 8 bits to represent 256 characters, adding more symbols, foreign language letters, and drawing characters.  
+
+In programming, when you declare a character, its ASCII value is stored instead. This allows you to perform operations on characters, such as comparing them or converting between uppercase and lowercase letters by adding or subtracting the difference in their ASCII values. 
+
+Examples     Uppercase 'A': \(65\) (binary \(1000001\)) Lowercase 'a': \(97\) (binary \(1100001\)) Digit '0': \(48\) Exclamation mark '!': \(33\) 
+
+-> share the program discussed
+share te notes about Format SPecifier and escape character
