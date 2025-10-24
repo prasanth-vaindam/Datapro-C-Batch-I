@@ -1,0 +1,28 @@
+Naveen came early. 
+Both  Aryan and Naveen Joined the class at the same time around 6:00 PM we continued the class till 7:10PM 
+
+we started the class with what was covered so far, who learned what classes.
+How many classes have been completed
+----------
+Student Replies: 
+CLRSCR(), System("cls"), System("clear");
+void main() why we have return statement at the end of the program.
+Aryan came up with few programs for his exam,
+Then we discussed if else and what a minimal condition looks like
+few conditional expressions
+i promised them i will conduct exam for them
+after Naveen left for the day, i completed the isEven or Odd program to Aryan
+i started with 2 table and also asked to write the first 5 even numbers
+showed they are all multiples of 2 which means from other point they will be perfectly divisible by two
+which means they will leave a reminder Zero on the other hand the numbers which are not divisible by 2 will leave a reminder 1
+so % operator gives us these reminder values when we divide a number by 2
+then I showed if else if else
+--------------
+I also showed turbo c compiler and explained why clrscr and getch() are used where these functions are present
+i discussed greater than and less than example 
+-----------
+Agenda for tomorrow:
+--------------------
+is even or odd 
+else if ladder
+Grades of Student using Switch 

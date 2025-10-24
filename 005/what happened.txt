@@ -1,0 +1,28 @@
+started class at 6:00 PM,
+only Aryan attended the class
+----------------
+discussed about float and double datatypes
+what are the limits of double can we increase the precesion is the doubts
+---
+Size of each datatype
+
+discussed about access modifiers Long 
+e.g. long double 
+
+next program M_PI
+if I don't know the value of pi how to show that using math.h library
+
+datatypes like char, int, float, double, 
+modiferes like short, long, signed unsigned
+----
+naveen joind at 5:39PM left little early
+Aryan joined at 5:59PM and left little late till 7:04 PM
+we discussed about size of data types
+ syntax of datatypes
+ when declearing different data types
+ ---
+ we discussed about system calls
+
+ open tasks: show the char  data type example
+             prepare notes on format specifiers access modifiers
+

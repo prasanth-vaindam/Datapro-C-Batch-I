@@ -3,7 +3,8 @@ int main()
 {
 
 
-    int data = 65; //Adi
+    int data = 65;
+     //Adi
     printf("%d My name is Siva\n", 1); // Format Specifier %d
     //printf("1+1 My name is Naveen\n");
     printf("%d My name is Naveen\n", 1+1);

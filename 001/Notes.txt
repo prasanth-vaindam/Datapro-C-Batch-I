@@ -1,0 +1,79 @@
+C Programming Language 
+
+Computer - > Computational Device
+
+4 Tasks:
+- take input
+- store data
+- process information
+- produce output
+
+Computers perform instructions, that way they are helping in our thought process (Thinking)
+
+How is it thinking or performing instructions?
+Machine understands -> binary language -> 0 1 
+instruction set  
+
+a = 10
+b = 5
+c = a + b
+
+10 is represented in binary like 1010
+5 -> 101
++ -> 101000111000
+
+1
+add 1010  101
+store res
+0
+
+mnemonics are invented -> Assembly language(AL)
+If a program is written using mnemonics, then it is said to be written in AL
+An assembler is used to convert AL -> ML(Machine Language)
+C -> ML (compiler is the translator )
+
+--------------------------------------------------------------------
+05:51 PM 09-10-2025
+Day 2: Agenda For Today
+
+1. The Need of Compiler!
+
+Compiler -> is a program which translates source code written in HLL(high Level Language) into Machine Understandable Code
+
+2. How Compiler Works?
+
+
+We will talk about Functions 
+-> starting with main()
+-> Executed a Hello world Program which print hello Message in Different Languages
+-> Return Type
+-> IDE and CMD
+-> Installing a Compiler and IDE
+--------------------------------------------------------------------------
+10-10-2025
+
+Use of IDEs, which to use and which one not to use?
+> Structure of C Program
+> Phases of Compilation 
+
+
+
+11-10-2025
+
+C Has Strong Roots in the In Industry
+C is meant to build System Software - You will Have access to the Internals of the computer like Direct access to RAM, Processor Registers
+A C program is much faster than a Python Or Java Program, because it is purely compiled and Platform Specific
+
+We Discussed about What is Java and How we lead to Other aspects of Coding
+
+NOTE: Tell Students about how OOP is Different from Procedural Programming Language. Should be able to tell in simple lay man terms
+
+Show them the picture of Compiler 
+
+The Process of Converting Source Code (written) in HLL to Target Machine Code is called Compilation.
+Discuss about the Editor(Notepad) to write Code (instructions)
+C program Source files are stored with .c Extension, Text files are stored with .txt extension
+
+A Program Under Execution is called Process 
+
+

@@ -1,0 +1,6 @@
+Decelaration
+INitlization
+format specifiers
+char datatype
+escape sequence
+[] -> array symbol which means group of characters

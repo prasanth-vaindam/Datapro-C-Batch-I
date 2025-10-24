@@ -1,0 +1,23 @@
+What is a Program?
+Who invented C Programming Language?
+What is Software?
+how many main functions can a software written in C can have?
+How to print your name, and friends' name using C Program?
+what are binary number and why computers under only binary?
+can a program written in C be understand by The Machine?
+are c source code portable? 
+is c compiled output file portable?
+what is platfrom independence means?
+what kind of software can be built using C?
+what is an OS, why is c used for system level programming?
+Can C be used for developing games and web apps?
+can we use c to build compilers and interpreters?
+can c be used for embedded systems and Scitentific applications?
+
+what are  the famous apps developed in c > what is kernel > what are device drivers
+> C has strong roots in the industry > invented 50 years ago > still supported 
+> Everything has it's strengths and if not used wisely becomes a weakness 
+> I am referring to pointers direct access to Primary Memory (RAM) where all the programs are stored
+
+> Talk about Memory > tell what a bit is and what 
+
