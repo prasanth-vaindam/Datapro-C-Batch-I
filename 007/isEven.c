@@ -9,8 +9,10 @@ int main()
     {
         printf("%d is Even\n", num);
     }
-    else{
+    else if (num %2 ==1){
         printf("%d is Odd\n", num);
+    }else {
+        printf("it is invalid input\n");
     }
 
     return 0;

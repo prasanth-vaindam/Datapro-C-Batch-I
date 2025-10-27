@@ -15,7 +15,7 @@ int main()
     // printf("%c is my first name initial\n", data);  // Format Specifier %c
     // printf("my name starts with %d\n", data); // my name starts with 65
     // //Thr .. 
-    // printf("->The ASCII value of %c = %d\n",data, data); // The ASCII value of A = 65
+    printf("->The ASCII value of %c = %d\n",data, data); // The ASCII value of A = 65
 
     // int i;
     // for(i=0;i<=255;i++)

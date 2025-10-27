@@ -1,0 +1,2 @@
+What is char?
+How to Read Values From User using scanf();

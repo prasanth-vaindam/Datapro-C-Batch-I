@@ -26,3 +26,5 @@ Agenda for tomorrow:
 is even or odd 
 else if ladder
 Grades of Student using Switch 
+
+Zero is an even number. This is because an even number is any whole number that can be divided by 2 with no remainder, and \(0\div 2=0\). Zero is also an integer multiple of 2, as \(0=2\times 0\).  

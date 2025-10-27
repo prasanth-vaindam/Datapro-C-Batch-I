@@ -1,0 +1,4 @@
+wacp to print first n odd numbers
+wacp tp print numbers from n till 0 (assume n will always be greater than 0)
+
+if i declare reverse with in the loop is that fine  or why should I declare it outside the loop
