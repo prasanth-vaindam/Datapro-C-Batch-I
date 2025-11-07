@@ -1,0 +1,26 @@
+dowhileloop real use
+break and continue
+nested loops: loop with in loop
+abnormal termination
+reverse of a number
+% operator
+tokens
+keywords
+while loop prgoram to find HCF
+
+for loop programs like 
+Multiplication table
+
+Factorial 
+
+patterns - ask spandana for image
+discuss tricky programs
+ternary operator
+ATM withdrwal using do while
+-------------------
+prompts: what are some basic good program that we can do with for loop
+with while loop
+------------
+how to demonstrate the keywords and there uses to beginners
+-----
+preprocessor direcitives 

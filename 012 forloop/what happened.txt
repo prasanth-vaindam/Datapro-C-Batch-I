@@ -1,0 +1,2 @@
+we discussed program to print the number in reverse order
+using while loop and for loop

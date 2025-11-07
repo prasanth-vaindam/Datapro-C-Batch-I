@@ -1,0 +1,17 @@
+If ()
+else{}
+--------
+C is a declarative Programming Language
+--------------
+In order to store data we need variables 
+a variable is a container in which data can be stored and modified in the with in the program.
+
+----
+WACP TO Check if the student passed in Maths Exam
+
+In today class we worked on two programs 
+Biggest of Two Number ?
+Check if pass or Fail ?
+Students struggled to re create if else logic and also forgot to declare variables 
+------
+

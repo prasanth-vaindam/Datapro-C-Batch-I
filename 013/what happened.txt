@@ -1,0 +1,5 @@
+Disscused tricky programs and
+increment, pre and post 
+Discussed Do while loop
+------------------
+sir why is this invented where exactly it is used in real time? Asked by Aryan

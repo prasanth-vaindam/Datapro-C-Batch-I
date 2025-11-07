@@ -7,3 +7,4 @@
         printf("You entered: %d\n", age);
         return 0;
     }
+    // Naveen attended today 29-10-2025

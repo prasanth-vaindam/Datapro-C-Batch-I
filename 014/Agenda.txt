@@ -1,0 +1,9 @@
+loop with in a loop
+more programs in for loop
+---
+do while loop examples where it is used
+06-Nov-2025
+-----------------
+- only naveen came and we discussed increment Operator
+- difference between pre and post increment 
+- we discussed tricky programs which Aryan has already gone through
